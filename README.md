@@ -1,4 +1,4 @@
-# Anime Face Detector
+# Anime Face Detector using mmdet and mmpose
 
 This project use pretrained model from repo [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector) to detect faces and landmarks from anime image
 
