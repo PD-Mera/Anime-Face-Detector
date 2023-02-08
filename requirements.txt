@@ -1,0 +1,5 @@
+torch
+openmim
+ninja
+psutil
+numpy==1.24.2
