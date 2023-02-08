@@ -34,6 +34,7 @@ python infer.py
 The model detects near-frontal anime faces and predicts 28 landmark points.
 
 ![landmarks](./assets/landmarks.jpg "landmarks")
+
 <sub> (*Source*: https://github.com/hysts/anime-face-detector) </sub>
 
 Some inference result
